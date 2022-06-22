@@ -84,4 +84,4 @@ We do regular meet ups and have a vibrant slack community.
 
 Email us for more information: triangleopsmain@gmail.com
 
-![Twitter Follow](https://img.shields.io/twitter/follow/TriTechJobsNC?style=social) 
+<p align="left"> <a href="https://twitter.com/tritechjobsnc" target="blank"><img src="https://img.shields.io/twitter/follow/tritechjobsnc?logo=twitter&style=for-the-badge" alt="TriTechJobsNC" /></a> </p>

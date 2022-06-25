@@ -6,6 +6,7 @@
 
 <p>Katie Brown - <a href="https://github.com/katieleebrown">github.com/katieleebrown</a></p>
 <p>Allie Castellanos - <a href="https://github.com/AllieGie">github.com/alliegie</a></p>
+<P>Brendon D'Souza - <a href="https://github.com/brendondsouza">github.com/brendondsouza</a></p>
 <p>Taylor Kelly - <a href="https://github.com/TaylorKellyCodes">github.com/taylorkellycodes</a></p>
 <p>Brandon Mitchell - <a href="https://github.com/brandonmitchell217">github.com/brandonmitchell217</a></p>
 <p>Jay Patel - <a href="https:/github.com/jmpatel90">github.com/jmpatel90</a></p>
